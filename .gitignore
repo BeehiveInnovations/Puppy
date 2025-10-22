@@ -134,3 +134,4 @@ coverage.lcov
 
 # VisualStudioCode
 .vscode/*
+Package.resolved
